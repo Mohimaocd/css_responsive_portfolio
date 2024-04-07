@@ -116,3 +116,13 @@ body{
         margin: 40px 20px;
     }
 }
+.intro-section:hover{
+    background-color: blue;
+    
+}
+.aboutMe-section:hover{
+    background-color: aqua;
+}
+.whatIDo-section:hover{
+    background-color: lavender;
+}
